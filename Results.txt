@@ -1,0 +1,12 @@
+taken the IOU and F1-score for bounding box and classification metrix
+
+validation accuracy:
+
+with object localization with CNN
+
+IOU: 0.5   F1-score: 60
+
+with Faster R-CNN fine tuning using transfer learning
+
+IOU: 0.83   F1-score: 85
+
