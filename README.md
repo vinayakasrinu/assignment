@@ -11,5 +11,3 @@ The FGVC Aircraft Dataset is a large-scale dataset consisting of images of aircr
 - `train.csv`: Contains the mapping of image paths to labels for the training set.
 - `test.csv`: Contains the mapping of image paths to labels for the test set.
 - `val.csv`: Contains the mapping of image paths to labels for the validation set.
-
-
